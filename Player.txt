@@ -1,1 +1,1 @@
-int moveSpeed=1;
+float speed = 100;
